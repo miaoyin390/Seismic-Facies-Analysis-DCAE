@@ -7,9 +7,11 @@ One of the most important goals of seismic stratigraphy studies is to interpret 
 
 ## Experiments
 ![result1](https://github.com/ymthink/Seismic-Facies-Analysis-DCAE/blob/master/result1.png)
+
 Figure 1. Facies maps of physical model. (a) The preparation of the physical model, (b) the prototype of the physical model, (c) the result using DCAE based on prestack data, (d) the result using WT-SOM based on poststack data, and (e) the result using WTMM-PCA-SOM based on prestack data.
 
 ![result2](https://github.com/ymthink/Seismic-Facies-Analysis-DCAE/blob/master/result2.png)
+
 Figure 2. Facies maps of the target horizon in the Liziba survey. (a) Coherence image based on poststack data, (b) the result using DCAE based on prestack data, (c) the result using WTMM-SOM based on poststack data, and (d) the result using WTMM-PCA-SOM based on prestack data.
 
 ## Citation
