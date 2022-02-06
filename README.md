@@ -28,5 +28,3 @@ Figure 2. Facies maps of the target horizon in the Liziba survey. (a) Coherence 
 }
 ```
 
-## Contact
-[MIAO Yin, SOHU.com inc.](mailto:yinmiaothink@gmail.com "MIAO Yin, SOHU.com inc.") 
